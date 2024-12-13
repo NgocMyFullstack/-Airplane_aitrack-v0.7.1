@@ -1,0 +1,15 @@
+[2024-12-08 13:56:14.955] [aitrack] [info]  ----------  AITRACK LOG   ----------
+[2024-12-08 13:56:14.956] [aitrack] [info] Created/Found prefs.ini
+[2024-12-08 13:56:16.295] [aitrack] [info] Searching for cameras...
+[2024-12-08 13:56:17.544] [aitrack] [info] Number of recognized cameras: 1
+[2024-12-08 13:56:17.545] [aitrack] [info] UDP sender reinitialized. IP: 127.0.0.1  PORT: 4242
+[2024-12-08 13:56:17.545] [aitrack] [info] Building Tracker with selected camera: 0
+[2024-12-08 13:56:17.598] [aitrack] [info] Tracker initialized.
+[2024-12-08 13:56:17.598] [aitrack] [info] Updated stabilizer.
+[2024-12-08 13:56:17.598] [aitrack] [info] Updating camera parameters...
+[2024-12-08 13:56:17.598] [aitrack] [info] Updated camera parameters. 640x480@30
+[2024-12-08 13:56:17.598] [aitrack] [info] Checking for updates
+[2024-12-08 13:56:17.752] [aitrack] [info] App initialized
+[2024-12-08 13:58:12.055] [aitrack] [info] Starting camera 0 capture
+[2024-12-08 13:58:13.297] [aitrack] [info] Camera 0 started capturing
+[2024-12-08 14:58:07.371] [aitrack] [info] Stop camera 0 capture
